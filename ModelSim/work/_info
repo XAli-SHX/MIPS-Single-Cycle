@@ -1,0 +1,563 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/term6/courses/DLD_LAB/Ex/1/codes/5_Ring Oscillator/modelsim
+vAdder
+Z0 !s110 1652876398
+!i10b 1
+!s100 H?RJ_b1__=gJ88<ohZ31:3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZRQ68@Jz6]nGG3Y4nflVD3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/ModelSim
+Z4 w1652875528
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Adder.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Adder.v
+!i122 1796
+L0 1 9
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1652876398.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder
+vAdderTB
+R0
+!i10b 1
+!s100 CUJloQmGP=:=<Gn;^WQgW1
+R1
+IS<`^F536e<U;RGNQ4WP:H2
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AdderTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AdderTB.v
+!i122 1797
+Z9 L0 1 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AdderTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AdderTB.v|
+!i113 1
+R7
+R8
+n@adder@t@b
+vAlu
+Z10 !s110 1652876399
+!i10b 1
+!s100 ]n]CDX^d;jhdeM5Z1aT4k3
+R1
+IOZ:4IMSE0EPU@hlcdj;H_3
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Alu.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Alu.v
+!i122 1798
+Z11 L0 1 23
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Alu.v|
+!i113 1
+R7
+R8
+n@alu
+vAluController
+R10
+!i10b 1
+!s100 n<Ro0@nLz6go<=fJ8bPbh3
+R1
+IPhX=kh9gLe4`62B7hP<4R3
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AluController.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AluController.v
+!i122 1799
+R11
+R5
+r1
+!s85 0
+31
+Z12 !s108 1652876399.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AluController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AluController.v|
+!i113 1
+R7
+R8
+n@alu@controller
+vALUController
+!s110 1652827099
+!i10b 1
+!s100 V=8[g>0j`BU`SWa9UjPa00
+R1
+I<[ASANjQ_WNze4P0EAgUK1
+R2
+R3
+w1652827030
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/ALUController.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/ALUController.v
+!i122 1485
+L0 1 20
+R5
+r1
+!s85 0
+31
+!s108 1652827099.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/ALUController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/ALUController.v|
+!i113 1
+R7
+R8
+n@a@l@u@controller
+vAluTB
+R10
+!i10b 1
+!s100 UTVOL1VT`BE5of7h_z?:l0
+R1
+IMHQjc36b4[0=e@e=N9mOK0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AluTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AluTB.v
+!i122 1800
+L0 1 27
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AluTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/AluTB.v|
+!i113 1
+R7
+R8
+n@alu@t@b
+vInstructionMemory
+Z13 !s110 1652876400
+!i10b 1
+!s100 0U06FRb;MiDEIMHPSWgfV0
+R1
+I4UQoEVWXdVWGf2WfP2>722
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemory.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemory.v
+!i122 1801
+Z14 L0 1 15
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemory.v|
+!i113 1
+R7
+R8
+n@instruction@memory
+vInstructionMemory2
+!s110 1652030419
+!i10b 1
+!s100 M4z3PEeLd_3_LEC;G<lZ^0
+R1
+I5Ib_cNgjVhW^YXEX096N^2
+R2
+R3
+w1652028233
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemory2.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemory2.v
+!i122 612
+L0 1 17
+R5
+r1
+!s85 0
+31
+!s108 1652030419.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemory2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemory2.v|
+!i113 1
+R7
+R8
+n@instruction@memory2
+vInstructionMemoryTB
+R13
+!i10b 1
+!s100 o^KSGTee4NKfnbR_00H=N3
+R1
+IFili?c18<bD3n1j4Ad@m;1
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemoryTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemoryTB.v
+!i122 1802
+L0 1 30
+R5
+r1
+!s85 0
+31
+Z15 !s108 1652876400.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemoryTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/InstructionMemoryTB.v|
+!i113 1
+R7
+R8
+n@instruction@memory@t@b
+vMemory
+Z16 !s110 1652876401
+!i10b 1
+!s100 Bo506i]XMiW?bRi@lD]X52
+R1
+I2`kboS3F:6gc^JlPGGSTV3
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Memory.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Memory.v
+!i122 1803
+R11
+R5
+r1
+!s85 0
+31
+R15
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Memory.v|
+!i113 1
+R7
+R8
+n@memory
+vMemoryTB
+R16
+!i10b 1
+!s100 =g5mG=^g;l:d92lKeW9zR0
+R1
+I=35hoVYOE][[gGI8?VLF92
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MemoryTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MemoryTB.v
+!i122 1804
+L0 1 37
+R5
+r1
+!s85 0
+31
+Z17 !s108 1652876401.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MemoryTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MemoryTB.v|
+!i113 1
+R7
+R8
+n@memory@t@b
+vMips
+R16
+!i10b 1
+!s100 I4:[m6mhWa83zoF3R^_]E3
+R1
+I2:Dm4U9k]<KX?QC5W:K?l0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mips.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mips.v
+!i122 1805
+R14
+R5
+r1
+!s85 0
+31
+R17
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mips.v|
+!i113 1
+R7
+R8
+n@mips
+vMipsController
+Z18 !s110 1652876402
+!i10b 1
+!s100 9:RUQaOO<dRWzX@=U4cOP0
+R1
+IJni>:AG64j7A<Q;EIYdfS2
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsController.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsController.v
+!i122 1806
+L0 1 62
+R5
+r1
+!s85 0
+31
+R17
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsController.v|
+!i113 1
+R7
+R8
+n@mips@controller
+vMipsDatapath
+R18
+!i10b 1
+!s100 QieLMCA?Jzl?RHjlj;=n12
+R1
+I98:mnclS[0>W3h_eHhVWj1
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsDatapath.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsDatapath.v
+!i122 1807
+L0 1 47
+R5
+r1
+!s85 0
+31
+Z19 !s108 1652876402.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsDatapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsDatapath.v|
+!i113 1
+R7
+R8
+n@mips@datapath
+vMipsTB
+R18
+!i10b 1
+!s100 NB9`^WboB@:1WHIHVbagF3
+R1
+I64Y_mENJkd8DE:IU2M?eL0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsTB.v
+!i122 1808
+L0 1 11
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/MipsTB.v|
+!i113 1
+R7
+R8
+n@mips@t@b
+vMux2
+Z20 !s110 1652876403
+!i10b 1
+!s100 3]@e2e7iQ;Mf_Fo4n68ec1
+R1
+IW=NR[gGaE7GFSE;BR>TIj0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mux2.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mux2.v
+!i122 1809
+L0 1 10
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mux2.v|
+!i113 1
+R7
+R8
+n@mux2
+vMux2TB
+R20
+!i10b 1
+!s100 ZP6o]dA?ng@flTDI17d721
+R1
+II8K_boT]>9WYMO;>K=N_e0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mux2TB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mux2TB.v
+!i122 1810
+Z21 L0 1 16
+R5
+r1
+!s85 0
+31
+Z22 !s108 1652876403.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mux2TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Mux2TB.v|
+!i113 1
+R7
+R8
+n@mux2@t@b
+vRegister
+Z23 !s110 1652876404
+!i10b 1
+!s100 dCPjCG^8WeLf0P<DHFKJ73
+R1
+IdC>fb7>n=2FCk5YSn`iY;1
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Register.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Register.v
+!i122 1811
+R14
+R5
+r1
+!s85 0
+31
+R22
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/Register.v|
+!i113 1
+R7
+R8
+n@register
+vRegisterFile
+R23
+!i10b 1
+!s100 LgFd_:M6Q1UWBCQi?<M8[0
+R1
+I@=k]f^ImmI_VXlB=f1B7i0
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterFile.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterFile.v
+!i122 1812
+L0 1 18
+R5
+r1
+!s85 0
+31
+Z24 !s108 1652876404.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterFile.v|
+!i113 1
+R7
+R8
+n@register@file
+vRegisterFileTB
+R23
+!i10b 1
+!s100 neGW@C?eBzXOBFacNgo:=1
+R1
+I2Z@z1PD2eIX_?HHjeFDF_3
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterFileTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterFileTB.v
+!i122 1813
+L0 1 25
+R5
+r1
+!s85 0
+31
+R24
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterFileTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterFileTB.v|
+!i113 1
+R7
+R8
+n@register@file@t@b
+vRegisterTB
+Z25 !s110 1652876405
+!i10b 1
+!s100 9I@3RQT88L]@kiYG]lVeJ2
+R1
+IiZdoi:keE6b]1??_MP8^G1
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterTB.v
+!i122 1814
+R9
+R5
+r1
+!s85 0
+31
+R24
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/RegisterTB.v|
+!i113 1
+R7
+R8
+n@register@t@b
+vSignExtend
+R25
+!i10b 1
+!s100 DOM:z<lgl4U>ZzFoFkDb>0
+R1
+I6mSD1T_lEh2DB?[BImjP31
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/SignExtend.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/SignExtend.v
+!i122 1815
+L0 1 8
+R5
+r1
+!s85 0
+31
+Z26 !s108 1652876405.000000
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/SignExtend.v|
+!i113 1
+R7
+R8
+n@sign@extend
+vSignExtendTB
+R25
+!i10b 1
+!s100 o8FcBGi`CddS4R@jOf[DG0
+R1
+I36_Z_Vz;GjaAIdaZRSSIG3
+R2
+R3
+R4
+8D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/SignExtendTB.v
+FD:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/SignExtendTB.v
+!i122 1816
+R21
+R5
+r1
+!s85 0
+31
+R26
+!s107 D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/SignExtendTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/term6/courses/ComputerArchitecture/CA/2/CA_CA2/Codes/.build.uhdl/SignExtendTB.v|
+!i113 1
+R7
+R8
+n@sign@extend@t@b
